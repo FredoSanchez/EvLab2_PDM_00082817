@@ -20,11 +20,7 @@ class botones_fragment : Fragment() {
             botonDer = boton_der
         }
 
+
         return super.onCreateView(inflater, container, savedInstanceState)
-
     }
-
-
-
-
 }

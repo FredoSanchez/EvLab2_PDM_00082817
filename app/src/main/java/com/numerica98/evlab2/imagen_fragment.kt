@@ -28,6 +28,8 @@ class imagen_fragment : Fragment() {
                 else -> R.drawable.img1
             }
         )
+
+
         return view;
 
     }
